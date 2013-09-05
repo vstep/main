@@ -8,6 +8,6 @@ namespace WpfApplication1
 {
     public class FailClass
     {
-        gdfhst;
+        gdft;
     }
 }
